@@ -1,0 +1,15 @@
+Options +FollowSymLinks +ExecCGI
+ 
+ # AuthType Basic
+  #AuthName "autorizace"
+  #Require user test
+  #AuthUserFile /home/web/.htpasswd
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  #RewriteCond %{HTTP_HOST} ^dad.miniobr.cz [NC]
+  #RewriteRule ^(.*)$ http://www.dalsiamaterskedivadlo.cz/$1 [L,R=301]
+  
+  RewriteRule ^([-a-zA-Z0-9_/]+).html?$ index.php?i=$1 [L,QSA]
+</IfModule>

@@ -1,0 +1,4 @@
+ AuthType Basic
+ AuthName "autorizace"
+ Require user dad
+ AuthUserFile /home/web/bedekr.miniobr.cz/www/web/dad/.htpasswd
