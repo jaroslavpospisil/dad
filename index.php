@@ -13,8 +13,7 @@
   
    
     $url =  'http://localhost/japo/dad';
-
-/*  další komentář  */    
+  
 ?>
 
 
