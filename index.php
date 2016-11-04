@@ -32,7 +32,6 @@
 		<meta charset="utf-8">
 		<title>DAD - Amatérský divadelní spolek</title>
 		<meta name='description' content='DAD - amatérský divadelní spolek'/>
-		<meta name='keywords' content='grayscale images demo, grayscale internet explorer 11, grayscale image tutorial'/>
 		<link rel="shortcut icon" type="image/png" href="favicon.ico">
 		<!--[if IE]><link rel='shortcut icon' href='favicon.ico' type='text/x-icon'/><![endif]-->
 		<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
