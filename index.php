@@ -14,7 +14,7 @@
    
     $url =  'http://localhost/japo/dad';
 
-/*komentář*/    
+/*komentář z repozitáře*/    
 ?>
 
 
